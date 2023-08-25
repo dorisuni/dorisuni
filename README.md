@@ -3,11 +3,11 @@
 ###우당탕탕 일단 구현해보는 초보 개발자입니다!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dorisuni&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=dorisuni&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorisuni&layout=compact&langs_count=8&card_width=320" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorisuni&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
