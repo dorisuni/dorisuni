@@ -11,11 +11,11 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=dorisuni&hide=issues&show_icons=true"/>
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=dorisuni&hide=issues&show_icons=true"/>
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorisuni&layout=compact&langs_count=8&card_width=320" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorisuni&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
