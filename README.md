@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=hello!&nbsp;I'm&nbsp;dorisuni!&animation=fadeIn!&fontSize=40)
 
-### 우당탕탕 일단 구현해보는 초보 개발자입니다!
+<h3 align="center">✨ I'm a beginner developer! ✨</h3>
+<h3 align="center">Everyday I'm growing🌱</h3>
+<h3 align="center">like a tree🎄</h3>
+
+<br>
+<br>
+<br>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
