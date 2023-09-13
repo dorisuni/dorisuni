@@ -3,7 +3,7 @@
 <h3 align="center">✨ I'm a beginner developer! ✨</h3>
 <h3 align="center">Everyday I'm growing🌱</h3>
 <h3 align="center">like a tree!</h3>
-<h1 align="center">🎄</p>
+<h1 align="center">🎄</p> 
 
 <br>
 <br>
