@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=Dorisuni의%20포트폴리오&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=Dorisuni&fontSize=40&animation=fadeIn)
 
 <h3 align="center">소프트웨어 개발자 | 신뢰성과 확장성을 중요시합니다</h3>
 <h3 align="center">끊임없이 배우고 성장하는 개발자</h3>
