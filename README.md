@@ -1,5 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=Dorisuni&fontSize=40&animation=fadeIn](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=Dorisuni&fontSize=40&animation=fadeIn&textColor=000000
-))
+
 
 <h3 align="center">소프트웨어 개발자 | 신뢰성과 확장성을 중요시합니다</h3>
 <h3 align="center">끊임없이 배우고 성장하는 개발자</h3>
@@ -42,6 +41,3 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdorisuni&count_bg=%2341B883&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=조회수&edge_flat=false" /></a>
-</p>
